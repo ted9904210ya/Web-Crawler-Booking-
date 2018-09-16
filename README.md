@@ -2,7 +2,9 @@
 
 如何抓booking每頁的旅館評價
 安裝Katalon Selenium IDE(for Chrome)、chromedriver.exe
- 
+
+      Web-Crawler-Booking-/image.png
+    
 第一部分:翻頁和抓取旅館英文名字
 用英文版是因為後面需抓出英文旅館名放進各連結裡
 1.	按New新建case
